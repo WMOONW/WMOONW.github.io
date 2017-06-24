@@ -4,13 +4,13 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "WT|WT的博客"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://WMOONW"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " WTeng"
+  email: "tftengfeii@gmail.com"
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
