@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="" align="center"></p>
+  <!--<p><img src="" align="center"></p> -->
 </center>
 
 
