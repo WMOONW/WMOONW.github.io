@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: scala练习4
 date: 2015-3-02
