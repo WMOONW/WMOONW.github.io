@@ -1,7 +1,7 @@
 ---
 layout: post
 title: scala练习4
-date: 2015-3-02
+date: 2017-6-25
 categories: blog
 tags: [scala]
 description: 快学scala中的练习。
