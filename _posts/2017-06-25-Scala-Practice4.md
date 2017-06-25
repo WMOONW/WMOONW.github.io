@@ -1,14 +1,14 @@
 ---
 layout: post
 title: scala练习4
-date: 2015-3-02
+date: 2017-06-25
 categories: blog
 tags: [scala]
 description: 快学scala中的练习。
 
 ---
 
-## scala课后练习4代码
+##  scala课后练习4代码
 
 ``` scala
 package com.scala.practice4
