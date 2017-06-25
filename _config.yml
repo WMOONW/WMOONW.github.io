@@ -55,8 +55,8 @@ comments :
       short_name : 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-99586162-1
-google_verify:
+google_analytics: UA-99586162-2
+google_verify: UA-99586162-2
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
