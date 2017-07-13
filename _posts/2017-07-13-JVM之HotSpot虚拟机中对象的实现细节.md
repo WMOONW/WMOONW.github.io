@@ -1,10 +1,10 @@
 ---
 layout: post
-title: JVM之运行时数据区
-date: 2017-06-28
+title: JVM之HotSpot虚拟机中对象的实现细节
+date: 2017-07-13
 categories: blog
 tags: [java,JVM,Java虚拟机]
-description: JVM内存管理机制中的运行时数据区。
+description: HotSpot虚拟机中对象的实现细节。
 
 ---
 
