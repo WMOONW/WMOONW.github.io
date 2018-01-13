@@ -74,6 +74,7 @@ description: 在spring boot项目及与mybatis、jquery、thymeleaf等整合过�
     ``` java
     
     @Autowired
+    
     private UserMapper userMapper;
 
     ```
