@@ -65,6 +65,7 @@ description: 在spring boot项目及与mybatis、jquery、thymeleaf等整合过�
 
     * controller中定义`Mapper`对象进行操作时，要加`@Autowired`注解，否则会报空指针异常。例：
     ``` java
+    @Autowired
     private UserMapper userMapper;
 
     ```
