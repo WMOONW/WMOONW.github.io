@@ -19,12 +19,13 @@ description: 在spring boot项目及与mybatis、jquery、thymeleaf等整合过�
     <dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-thymeleaf</artifactId>
-	</dependency>
+    </dependency>
 
     <dependency>
 		<groupId>net.sourceforge.nekohtml</groupId>
 		<artifactId>nekohtml</artifactId>
 		<version>1.9.2
+    </dependency>
         
     ```
    * 在配置文件中进行配置：
