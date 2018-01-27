@@ -1,4 +1,14 @@
+---
+layout: post
+title: Eclipse与GitHub整合
+date: 2018-01-27
+categories: blog
+tags: [eclipse, github]
+description: 在eclipse中将项目提交到GitHub。
 
+---
+
+# Eclipse与GitHub整合
 
 1. 在GitHub创建一个`Repository`.
 
